@@ -1,0 +1,26 @@
+1) Las caracteristicas principales que hay que tener en  cuenta en un  motor de combustion son SOLAMENTE las siguientes: Capacidad, Revolucion, Tipo de conexion.
+
+2) Un acople es un dispositivo que se utiliza para unir dos ejes en sus extremos con el fin de trasmitir potencia. Existen dos tipos  generales de  acople  que son rigidos y flexibles.
+
+3) Tolerancia es la variacion maxima que vamos a permitir en la medida final de la pieza construida. Se determina como la diferencia entre las medidas minima y maxima permitidas.
+
+4) ¿Porque es importante alinear los neumaticos del vehiculo?
+	a) minimizar el tiempo entre las paradas
+	b) aumentar la vida util de los rodamientos
+	c) disminuir los niveles de vibracion
+	d) aumentar la vida de los acoplamientos y sellos
+
+5) ¿Cuales son los beneficios de la alineacion laser?
+	a) rapidez y precision
+	b) tecnologia sencilla con graficos
+	c) no se necesita ser un experto  por su manejo sencillo
+	d) trabaja con angulos cortos y giros paralelos
+
+
+
+
+F
+C
+F
+c
+a
